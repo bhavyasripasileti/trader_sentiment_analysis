@@ -94,21 +94,17 @@ influences **trader behavior and performance** on the Hyperliquid platform, and 
 ## 📁Project Structure
 
 trader_sentiment_analysis/
-
 │
-
 ├── analysis.ipynb
-
 ├── README.md
-
 └── data/
 
     ├── fear_greed_index.csv
-    
     └── historical_data.csv
 
 
 ## 👤 Author
 
 Bhavya Sri Pasileti
+
 📧 bhavyasripasileti@gmail.com
