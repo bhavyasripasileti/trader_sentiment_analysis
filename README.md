@@ -100,6 +100,7 @@ trader_sentiment_analysis/
 ├── analysis.ipynb
 
 ├── README.md
+
 └── data/
 
     ├── fear_greed_index.csv
