@@ -90,3 +90,25 @@ influences **trader behavior and performance** on the Hyperliquid platform, and 
    python -m notebook
 
   Open analysis.ipynb and run all cells.
+
+## 📁Project Structure
+
+trader_sentiment_analysis/
+
+│
+
+├── analysis.ipynb
+
+├── README.md
+
+└── data/
+
+    ├── fear_greed_index.csv
+    
+    └── historical_data.csv
+
+
+## 👤 Author
+
+Bhavya Sri Pasileti
+📧 bhavyasripasileti@gmail.com
