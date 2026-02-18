@@ -89,5 +89,4 @@ influences **trader behavior and performance** on the Hyperliquid platform, and 
    ```bash
    python -m notebook
 
-
-Open analysis.ipynb and run all cells.
+  Open analysis.ipynb and run all cells.
