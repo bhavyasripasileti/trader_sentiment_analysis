@@ -75,3 +75,19 @@ influences **trader behavior and performance** on the Hyperliquid platform, and 
    ```bash
    git clone https://github.com/bhavyasripasileti/trader_sentiment_analysis.git
 
+2. Navigate to the project folder:
+   ```bash
+   cd trader_sentiment_analysis
+
+
+3. Install dependencies:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+
+
+4. Start Jupyter Notebook:
+   ```bash
+   python -m notebook
+
+
+Open analysis.ipynb and run all cells.
