@@ -1,10 +1,10 @@
-##📊 Trader Performance vs Market Sentiment (Fear & Greed)
+📊 Trader Performance vs Market Sentiment (Fear & Greed)
 
-#📌 Objective
+📌 Objective
 
 The goal of this project is to analyze how Bitcoin market sentiment (Fear vs Greed) influences trader behavior and performance on the Hyperliquid platform, and to derive actionable trading insights that can inform better trading strategies.
 
-#📂 Datasets Used
+📂 Datasets Used
 1. Bitcoin Fear & Greed Index
 
 File: fear_greed_index.csv
@@ -33,7 +33,7 @@ Size USD – Trade size
 
 Timestamp IST – Trade execution time
 
-#🧪 Methodology
+🧪 Methodology
 
 Data Loading & Inspection
 
@@ -73,7 +73,7 @@ Frequent vs Infrequent traders
 
 Consistent vs Inconsistent traders (based on win rate)
 
-#📈 Key Insights
+📈 Key Insights
 
 Trader PnL shows higher volatility during Fear periods compared to Greed periods.
 
@@ -81,7 +81,7 @@ Trade frequency increases during Greed days, but win rate does not improve propo
 
 Consistent traders maintain relatively stable behavior across sentiment regimes, suggesting strong risk management.
 
-#🎯 Actionable Strategy Recommendations
+🎯 Actionable Strategy Recommendations
 
 Reduce exposure during Fear periods to limit drawdowns and volatility.
 
@@ -89,7 +89,7 @@ Increase trade activity during Greed periods only for consistent traders with hi
 
 Avoid aggressive scaling of trade frequency without evidence of improved performance.
 
-#▶️ How to Run the Project
+▶️ How to Run the Project
 
 - Clone the repository: git clone https://github.com/bhavyasripasileti/trader_sentiment_analysis.git
 
