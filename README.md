@@ -94,8 +94,11 @@ influences **trader behavior and performance** on the Hyperliquid platform, and 
 ## 📁Project Structure
 
 trader_sentiment_analysis/
+
 │
+
 ├── analysis.ipynb
+
 ├── README.md
 └── data/
 
